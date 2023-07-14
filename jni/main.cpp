@@ -7,7 +7,7 @@
 #include "Unity/Vector2.hpp"
 #include "Unity/Vector3.hpp"
 #include "Unity/Unity.h"
-#include "Hook.h"
+#include "hook.h"
 #include "Includes/Utils.h"
 #include "Unity/obfuscate.h"
 
