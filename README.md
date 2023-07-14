@@ -17,4 +17,4 @@ invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 
 # Amostra do funcionamento
 
-![Image]([https://raw.githubusercontent.com/LKZINXSZ1VX/example-memory-cheat/main/Screenshot_2023-07-14-18-06-58-060_com.blayzegames.newfps.jpg?token=GHSAT0AAAAAACFDSUOIHUOC5MGFSF5BAQZSZFR272Q](https://github.com/LKZINXSZ1VX/Example-Library-Cheat/blob/main/Screenshot_2023-07-14-18-06-58-060_com.blayzegames.newfps.jpg)https://github.com/LKZINXSZ1VX/Example-Library-Cheat/blob/main/Screenshot_2023-07-14-18-06-58-060_com.blayzegames.newfps.jpg)
+![Image](https://github.com/LKZINXSZ1VX/Example-Library-Cheat/blob/main/Screenshot_2023-07-14-18-06-58-060_com.blayzegames.newfps.jpg)
